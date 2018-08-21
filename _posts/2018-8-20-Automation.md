@@ -4,6 +4,7 @@ title: Death of the Worker
 ---
 Losing a job to another person is pretty soul-crushing, but imagine losing a job to a machine. 
 <!--more-->
+
 As AI becomes more advanced in the not so distant future, this imagination may soon become all too real. A study from Oxford University concluded that almost half of all U.S. jobs will be “susceptible to computerization” in the next decade or two and that an equivalent to more than a fifth of today’s global labor force could lose their jobs. AI will automate much of the jobs involving physical labor and repetitive tasks, as well as more sophisticated jobs like sales, finance, HR, accounting, marketing, and office management functions. As Stanford academic Jerry Kaplan puts it, automation is “blind to the color of your collar”.
 
 On the other hand, there are those that believe that AI will actually create more jobs. According to an article from MIT Sloan Review, there are three main categories of jobs that will emerge: trainers, explainers, and sustainers. Trainers will teach the AI systems how to perform their tasks. Explainers are responsible for bridging the gap between technologists and business leaders, acting as consultants. Finally, sustainers will ensure that the AI systems are operating as designed and unintended consequences are addressed, managers of the ethics.

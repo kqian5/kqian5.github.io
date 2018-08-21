@@ -11,7 +11,9 @@ url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
 paginate_path:       "page:num"
-plugins:             [jekyll-paginate]
+plugins:             
+  - jekyll-paginate
+  - jekyll-seo-tag
 
 # About/contact
 author:
@@ -23,3 +25,14 @@ author:
 version:             1.0.0
 
 excerpt_separator: <!--more-->
+
+seo:
+  name: Kyle Qian
+  type: Person
+url: https://kyle-qian.com
+social:
+  name: Kyle Qian
+  links:
+    - https://www.facebook.com/kyle.qian.7
+    - https://github.com/kqian5
+    - https://www.linkedin.com/in/kyle-q-879814126/
