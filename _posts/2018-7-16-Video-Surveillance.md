@@ -2,7 +2,8 @@
 layout: post
 title: The Dystopian Future Nobody Wants
 ---
-Machine learning is hot hot hot right now --yes even more so than Drake’s newest album-- and it was simply a matter of time before the camera industry hopped on that hypetrain. 
+Machine learning is hot hot hot and it was simply a matter of time before the camera industry hopped on that hypetrain fast fast fast. 
+<!--more-->
 
 According to Wikipedia, an authoritative source, machine learning is a subset of Artificial Intelligence that allow computers to learn from data without being explicitly programmed. 
 

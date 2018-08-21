@@ -15,9 +15,11 @@ plugins:             [jekyll-paginate]
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Kyle Qian
+  url:               kqian5.github.io
+  email:             kyle_qian@brown.edu
 
 # Custom vars
 version:             1.0.0
+
+excerpt_separator: <!--more-->

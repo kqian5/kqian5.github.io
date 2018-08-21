@@ -3,7 +3,7 @@ layout: post
 title: Printing the Way to Healthiness
 ---
 Can 3D printing grant immortality?
-
+<!--more-->
 Short answer: no. 
 
 Long answer: still no. 

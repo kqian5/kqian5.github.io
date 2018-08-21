@@ -4,6 +4,8 @@ title: Welcome!
 ---
 Hi I'm Kyle! 
 
+<!--more-->
+
 I'm a currently a student at Brown University studying computer science. Since I spend so much time reading from the tech section of various newspapers and blogs, I figured I would share my thoughts as well.
 
 With the rate that new technology is developing, it is not inconceivable to think that pretty soon the science fiction of the past will become the reality of today. After all, self-driving cars and robots that can see and hear like humans are already here. It is not just this sort of flashy technology that is being developed either. Everyday household items are becoming digitalized with the Internet of Things, smartphones are becoming more intelligent and living up to their name, and we humans are become utterly reliant upon these such items. But these happenings are good right?

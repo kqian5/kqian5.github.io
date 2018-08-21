@@ -4,7 +4,7 @@ title: Understanding the World with Technology
 ---
 
 Humans are solutionists by nature. We take pride in the fact that we can solve problems -- bigger and more complex problems correlate with a greater sense of accomplishment.
-
+<!--more-->
 No wonder social entrepreneurs are so admired in society; they come up with innovative business solutions to social problems, the most complex of all problems, and make life better for others in the world. It is odd however, even astounding, to think that social entrepreneurs may not be doing as much good as we imagine. 
 
 At the heart of the problem is the fact that many of these so called social entrepreneurs, labelled “heropreneurs” by Daniela Papi-Thornton, simply want to be recognized for their good intentions. As a result, they do not truly understand the issues they are trying to solve, or worse, do not truly care. 
