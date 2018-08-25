@@ -11,7 +11,7 @@ This summer, I had a great experience interning at a 3D printing company, Encash
 
 In my free time you can find me on the courts practicing to be the next NBA star, attempting to play the violin, or sampling different foods.
 
-Always seeking to be inspired, to meet people who bring out the best in me, and to work hard for worthy causes.
+Always seeking to be inspired, to meet people who bring out the best in me, and to work hard at work worth doing.
 
 ### Say hi at:
 
