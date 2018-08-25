@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Understanding the World with Technology
+categories: Tech
 ---
 
 Humans are solutionists by nature. We take pride in the fact that we can solve problems -- bigger and more complex problems correlate with a greater sense of accomplishment.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hi, I'm Kyle!
+categories: Tech
 ---
 I am currently a student at Brown University studying computer science. Since I spend so much time reading from the tech section of various newspapers and blogs, I figured I would share my thoughts as well.
 

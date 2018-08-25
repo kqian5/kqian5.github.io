@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Death of the Worker
+categories: Tech
 ---
 Losing a job to another person is pretty soul-crushing, but imagine losing a job to a machine. 
 <!--more-->

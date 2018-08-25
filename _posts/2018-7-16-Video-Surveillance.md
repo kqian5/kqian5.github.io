@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Dystopian Future Nobody Wants
+categories: Tech
 ---
 Machine learning is hot hot hot and it was simply a matter of time before the camera industry hopped on that hypetrain fast fast fast. 
 <!--more-->

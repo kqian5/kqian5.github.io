@@ -6,13 +6,13 @@ permalink:           pretty
 # Setup
 title:               Kyle Qian
 tagline:             'student @ brown university'
-description:         'programmer, scholar, big baller, classical violinist, culinary enthusiast, sheng ji extraordinaire'
+description:         'programmer, scholar, big baller, classical violinist, culinary enthusiast, sheng-ji extraordinaire'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
-paginate:            5
-paginate_path:       "page:num"
+# paginate:            5
+# paginate_path:       "page:num"
 plugins:             
-  - jekyll-paginate
+  # - jekyll-paginate
   - jekyll-seo-tag
 
 # About/contact

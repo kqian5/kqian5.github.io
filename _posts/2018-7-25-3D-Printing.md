@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Printing the Way to Healthiness
+categories: Tech
 ---
 Can 3D printing grant immortality?
 <!--more-->
