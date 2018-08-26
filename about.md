@@ -5,9 +5,9 @@ title: about | me
 
 Hi, welcome to my website/blog!
 
-Born in Texas, raised in the Southeast, and living in Providence. 
+Born in Texas, raised in the Southeast, and living in Providence.
 
-Currently a sophomore at [Brown University](https://en.wikipedia.org/wiki/Brown_University){:target="_blank"} concentrating in applied math-computer science. I'm particularly interested in artificial intelligence/machine learning and my favorite thing about software is the challenge of learning different domains, especially as I get to dive deeper into specific topics such as neural networks or natural language. I am a lifelong learner and am committed to using my skills to impact the world.
+Currently a sophomore at [Brown University](https://en.wikipedia.org/wiki/Brown_University) concentrating in applied math-computer science. I'm particularly interested in artificial intelligence/machine learning and my favorite thing about software is the challenge of learning different domains, especially as I get to dive deeper into specific topics such as neural networks or natural language. I am a lifelong learner and am committed to using my skills to impact the world.
 
 This summer, I had a great experience interning at a 3D printing company, [Encashape](http://encashape.com/). I also did some work in the [Artificial Intelligence Lab](https://www.brown.edu/Research/AI/blog/) at Brown University and the [Data Mining Lab](http://dmlab.cs.gsu.edu/) at Georgia State University.
 
