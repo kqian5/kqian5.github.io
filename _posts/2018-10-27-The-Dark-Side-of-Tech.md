@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Righteous AI
+title: The Dark Side of Tech
 categories: Tech
 ---
 The ding of the push notification, the pull to refresh muscle memory, the FOMO from Snapchat stories, the Instagram envy. These are daily occurrences for our generation today that affect our lives -- for better and worse. To me, the internet is much more addicting than caffeine could ever be. Its something I could never imagine quitting, and I am not alone in this sentiment. As the internet claims (lol), the average adult spends more than 3 hours on the phone every day, and over 70% sleep next to their phone at night. A plethora of reasons fuel this addictiveness, and this problem will only become more relevant in the future as big tech aims for even bigger schemes. 
