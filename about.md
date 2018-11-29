@@ -17,5 +17,3 @@ Always seeking to be inspired, to meet those who bring out the best in me, and t
 [kyle_qian@brown.edu](mailto:kyle_qian@brown.edu) or [linkedin](https://www.linkedin.com/in/kyle-qian/) or [github](https://github.com/kqian5)
 
 ---
-
-Here's my [resume](/public/kyleqianresume.pdf).
