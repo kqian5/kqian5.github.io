@@ -1,3 +1,9 @@
+---
+layout: post
+title: The Dark Side of Tech
+categories: Tech
+---
+
 If you have ever watched a film set in the future, then you know of AI superintelligence (#iykyk). In these films, the computers are capable of the unfathomable and even the unreasonable.
 
 Currently, our AI algorithms possess narrow intelligence, meaning that they are smarter than human in only specific fields. For example, they may be better at evaluating math expressions and beating humans in chess, but they lack the judgement and decision-making of humans. The next step is general intelligence, where machines are on par with humans and can act as doctors, lawyers, programmers, and other meaningful jobs. The step after is superintelligence, the most interesting and consequential of the three. With superintelligence, computers would take over as the dominant species on this planet; they would be able to think and operate like humans but on a much higher level. 
