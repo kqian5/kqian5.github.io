@@ -6,9 +6,9 @@ Born in Dallas, raised in Atlanta, living in Providence.
 
 Currently a junior at [Brown University](https://www.brown.edu/), concentrating in applied math and cs. I'm broadly interested in machine learning and its applications.
 
-This summer, I did some full stack development at [Fidelity Investments](https://www.fidelity.com/). Previously, worked on 3D printing software at Encashape.
+This summer, I did some full stack development at [Fidelity Investments](https://www.fidelity.com/). Previously, I worked on 3D printing software at Encashape.
 
-Love to read, discover new music, play basketball.
+Love to read, discover new music, and play basketball.
 
 ### Say hi at:
 
