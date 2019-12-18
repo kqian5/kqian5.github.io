@@ -1,0 +1,19 @@
+---
+layout: default
+title: projects | cs
+---
+
+<div class="posts">
+  {% for post in site.categories.Projects %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{site.baseurl}}{{post.url}}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    {{ post.excerpt }}
+  </div>
+  <hr>
+  {% endfor %}
+</div>

@@ -4,12 +4,14 @@
 
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
-  <img src="/public/images/me.jpg" class="img-responsive" style="border-radius:50%; width:50%; margin: 20px 0px 0px 42px;">
+  <img src="/public/images/newme.jpg" class="img-responsive" style="border-radius:50%; width:50%; margin: 20px 0px 0px 42px;">
   <div class="sidebar-item" style="margin: 0px 30px 0px 0px">
     <p>{{ site.description }}</p>
   </div>
 
   <nav class="sidebar-nav">
+    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/">about | me</a>
+    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="/projects/">projects | cs</a>
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/blog/">blog | ethics of emerging tech</a>
 
     {% comment %}
@@ -26,9 +28,7 @@
       {% endif %}
     {% endfor %} -->
     <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="/destress/">blog | de-stress, no distress</a>
-    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="/projects/">projects | cs</a>
     <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="/goals/">goals | future</a>
-    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/">about | me</a>
 <!--     <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
     <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
     <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
