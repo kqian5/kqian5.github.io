@@ -6,6 +6,8 @@ categories: Projects
 
 *generating novel piano music...*
 
+check out code here: [in samples directory](https://github.com/kqian5/LSTM-Type-Beat)
+
 ![GoogleClips](/public/images/score.jpg){:class="img-responsive"}
 
 <!--more-->
