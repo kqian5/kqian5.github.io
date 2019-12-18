@@ -1,14 +1,24 @@
-I"<p><strong><em>Introduction</em></strong></p>
+I"�<p><em>generating novel piano music…</em></p>
 
-<p>As a violinist and classical music enthusiast, it’s always interesting for me to think about how composers actually composed these immensely complex concertos and symphonies. It’s truly incredible to be able to think about how the different instruments fit together and consider the rhythm, the melody, the dynamics, etc. Even more remarkable, is the idea of using computers to generate music. Inspired by this idea, I chose to implement a learning model based on an architecture described by Douglas Eck and Jürgen Schmidhuber in their paper. The study explained the benefits of using a Long Short-Term Memory (LSTM) structure as opposed to vanilla recurrent neural networks because of its ability to retain a “global” music structure. Furthermore, this model will allow our algorithm to account for several notes prior to our last note when generating the next chord. This “global” scope will potentially allow music themes, sequences, and unique melodies to be created. Our passion for music inspired us to explore the intersection of computer science and music by solving this unsupervised learning problem.</p>
+<p><img src="/public/images/score.jpg" alt="GoogleClips" class="img-responsive" /></p>
 
 <!--more-->
+
+<p>Team: Kyle Qian, Christie Gahm, Dylan Ngo</p>
+
+<p>Tools: Python, Tensorflow, Keras</p>
+
+<p>check out code here: <a href="https://github.com/kqian5/LSTM-Type-Beat">sample generations in ‘sample’ directory</a></p>
+
+<p><strong><em>Introduction</em></strong></p>
+
+<p>As a violinist and classical music enthusiast, it’s always interesting for me to think about how composers actually composed these immensely complex concertos and symphonies. Even more remarkable, is the idea of using computers to generate music. Inspired by this idea, we chose to implement a learning model based on an architecture described by Douglas Eck and Jürgen Schmidhuber in their paper. The study explained the benefits of using a Long Short-Term Memory (LSTM) structure as opposed to vanilla recurrent neural networks because of its ability to retain a “global” music structure. Furthermore, this model will allow our algorithm to account for several notes prior to our last note when generating the next chord. This “global” scope will potentially allow music themes, sequences, and unique melodies to be created. Our passion for music inspired us to explore the intersection of computer science and music by solving this unsupervised learning problem.</p>
 
 <p><strong><em>Preprocessing</em></strong></p>
 
 <p>We decided to use the pretty_midi library on the MAESTRO dataset because its tools were very cohesive with our method of composing music. With the library, we converted midi files into information relevant to our model by only extracting the pitches and rests. After extracting, we converted the raw chords into timeframed, tokenized ids, where each unique chord had a unique id.</p>
 
-<p><em>Model</em></p>
+<p><strong><em>Model</em></strong></p>
 
 <p>The following architecture was used:</p>
 

@@ -1,5 +1,0 @@
-I"�<p><em>Introduction</em></p>
-
-<p>As a violinist and classical music enthusiast, it’s always interesting for me to think about how composers actually composed these immensely complex concertos and symphonies. It’s truly incredible to be able to think about how the different instruments fit together and consider the rhythm, the melody, the dynamics, etc. Even more remarkable, is the idea of using computers to generate music. Inspired by this idea, I chose to implement a learning model based on an architecture described by Douglas Eck and Jürgen Schmidhuber in their paper. The study explained the benefits of using a Long Short-Term Memory (LSTM) structure as opposed to vanilla recurrent neural networks because of its ability to retain a “global” music structure. Furthermore, this model will allow our algorithm to account for several notes prior to our last note when generating the next chord. This “global” scope will potentially allow music themes, sequences, and unique melodies to be created. Our passion for music inspired us to explore the intersection of computer science and music by solving this unsupervised learning problem.</p>
-
-:ET

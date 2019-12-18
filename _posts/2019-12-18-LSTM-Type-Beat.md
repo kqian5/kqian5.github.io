@@ -6,8 +6,6 @@ categories: Projects
 
 *generating novel piano music...*
 
-check out code here: [in samples directory](https://github.com/kqian5/LSTM-Type-Beat)
-
 ![GoogleClips](/public/images/score.jpg){:class="img-responsive"}
 
 <!--more-->
@@ -15,6 +13,8 @@ check out code here: [in samples directory](https://github.com/kqian5/LSTM-Type-
 Team: Kyle Qian, Christie Gahm, Dylan Ngo
 
 Tools: Python, Tensorflow, Keras
+
+check out code here: [sample generations in 'sample' directory](https://github.com/kqian5/LSTM-Type-Beat)
 
 ***Introduction***
 
