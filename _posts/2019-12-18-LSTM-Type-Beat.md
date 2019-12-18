@@ -22,7 +22,7 @@ As a violinist and classical music enthusiast, it’s always interesting for me 
 
 We decided to use the pretty_midi library on the MAESTRO dataset because its tools were very cohesive with our method of composing music. With the library, we converted midi files into information relevant to our model by only extracting the pitches and rests. After extracting, we converted the raw chords into timeframed, tokenized ids, where each unique chord had a unique id.
 
-*Model*
+***Model***
 
 The following architecture was used:
 
